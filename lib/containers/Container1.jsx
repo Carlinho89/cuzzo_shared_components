@@ -6,7 +6,7 @@ class Container1 extends Component {
         return (
             <div>
                 <p> Container_1: HELLO WORLD </p> 
-                <p> new version 2.2 </p>
+                <p> new version 2.2 <
             </div>
         );
     }
