@@ -1,6 +1,6 @@
 {
   "name": "cuzzo_shared_components",
-  "version": "0.2.2",
+  "version": "0.2.3",
   "description": "A minimal shared lib for components",
   "main": "lib/index.js",
   "scripts": {
