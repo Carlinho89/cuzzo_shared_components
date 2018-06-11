@@ -1,8 +1,8 @@
 import React from "react";
 import { render } from "react-dom";
-import Component1 from '../lib/components/Component1';
-import Container2 from '../lib/containers/Container2';
-import Container1 from '../lib/containers/Container1';
+import {Component1} from '../lib/components';
+import {Container1, Container2} from '../lib/containers';
+
 
 import "./styles.css";
 

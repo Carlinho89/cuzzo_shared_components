@@ -6,6 +6,7 @@ class Component1 extends Component {
         return (
             <div>
                 <p> Component_1: HELLO WORLD </p> 
+                <p> Welcome to the new version </p> 
             </div>
         );
     }
